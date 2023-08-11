@@ -7,6 +7,7 @@ function App() {
   return (
     <div style={{display : 'flex' , flexDirection : 'row' , justifyContent : 'space-evenly'}}>
       <div>there are some changes</div>
+      <h2>Git add remote origin</h2>
       <StaticComponent />
       <DynamicComponent/>
     </div>
